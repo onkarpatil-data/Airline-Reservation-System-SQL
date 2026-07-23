@@ -1,0 +1,1201 @@
+﻿Seat_ID,Flight_ID,Seat_Number,Seat_Class,Availability
+1,751,17A,First Class,Booked
+2,69,5D,First Class,Booked
+3,883,34A,Business,Booked
+4,501,43E,Economy,Available
+5,441,10C,First Class,Booked
+6,129,34E,First Class,Available
+7,690,1E,Business,Available
+8,27,54E,Business,Booked
+9,420,51C,Business,Available
+10,64,22A,Economy,Booked
+11,1106,39D,First Class,Available
+12,389,48E,Economy,Available
+13,702,11D,First Class,Available
+14,1004,42D,Business,Available
+15,116,5F,First Class,Booked
+16,348,47B,Economy,Booked
+17,435,39C,First Class,Booked
+18,619,44A,First Class,Booked
+19,425,26E,First Class,Booked
+20,664,32D,Business,Booked
+21,333,18A,Business,Available
+22,1033,47B,First Class,Available
+23,353,7A,Business,Available
+24,25,52E,Business,Available
+25,961,31E,Business,Booked
+26,430,42E,Business,Booked
+27,1145,47B,Economy,Available
+28,547,53A,First Class,Available
+29,1176,41E,First Class,Available
+30,1169,36E,Business,Available
+31,17,21C,First Class,Booked
+32,221,40B,First Class,Booked
+33,133,45E,Economy,Available
+34,681,29B,Economy,Available
+35,849,4C,Business,Booked
+36,699,11C,First Class,Available
+37,1104,2C,Economy,Booked
+38,160,2B,First Class,Booked
+39,113,39E,Business,Booked
+40,152,25A,First Class,Booked
+41,786,43B,Economy,Available
+42,865,44C,First Class,Available
+43,886,26F,First Class,Booked
+44,1177,52A,Economy,Booked
+45,203,14F,Business,Booked
+46,570,2D,First Class,Booked
+47,1052,9A,First Class,Booked
+48,8,14A,First Class,Available
+49,982,13D,First Class,Booked
+50,475,60B,Business,Booked
+51,962,42A,First Class,Booked
+52,46,13E,Business,Available
+53,918,60A,Economy,Booked
+54,650,57E,Business,Available
+55,669,8A,First Class,Available
+56,426,44A,First Class,Available
+57,34,52F,Economy,Available
+58,734,47B,Economy,Available
+59,1195,18C,Business,Available
+60,469,6E,First Class,Available
+61,255,34A,Economy,Booked
+62,101,42B,Business,Booked
+63,94,34A,Economy,Available
+64,1178,36D,Economy,Available
+65,571,26D,First Class,Available
+66,862,46C,First Class,Booked
+67,587,3E,First Class,Available
+68,595,54E,Business,Booked
+69,941,49D,Economy,Available
+70,113,14C,Economy,Booked
+71,824,60F,First Class,Available
+72,1076,13D,First Class,Available
+73,100,16B,Economy,Available
+74,99,13C,First Class,Available
+75,1118,43A,Business,Available
+76,997,2C,First Class,Booked
+77,109,19F,Economy,Available
+78,492,4C,First Class,Booked
+79,207,60A,Economy,Booked
+80,1175,3F,First Class,Available
+81,254,26A,Economy,Available
+82,343,24D,First Class,Available
+83,924,46C,First Class,Booked
+84,280,9E,Business,Booked
+85,853,54D,Economy,Available
+86,633,30F,Economy,Available
+87,82,11E,First Class,Available
+88,494,29D,Business,Booked
+89,1041,11D,Business,Available
+90,672,3B,First Class,Available
+91,1019,43D,Economy,Booked
+92,842,1C,First Class,Booked
+93,319,58F,First Class,Available
+94,1198,48C,First Class,Available
+95,131,7E,First Class,Available
+96,1031,57C,Economy,Booked
+97,659,33E,Economy,Available
+98,509,34F,Economy,Booked
+99,831,7F,Economy,Available
+100,1096,39A,Economy,Available
+101,1166,49F,First Class,Available
+102,1035,34B,Economy,Booked
+103,69,36E,First Class,Booked
+104,474,9F,First Class,Booked
+105,823,19B,First Class,Booked
+106,761,43C,Economy,Booked
+107,272,54A,First Class,Available
+108,802,28A,Business,Available
+109,1167,33E,First Class,Available
+110,649,48B,Business,Available
+111,346,4E,First Class,Available
+112,1086,20D,Economy,Available
+113,473,5A,First Class,Booked
+114,330,60B,First Class,Available
+115,806,20C,Economy,Available
+116,1078,30E,Business,Booked
+117,1064,51F,Business,Booked
+118,805,39C,Economy,Booked
+119,414,51E,Economy,Available
+120,323,29F,First Class,Available
+121,23,54E,First Class,Available
+122,1170,23B,Business,Available
+123,984,40F,Business,Booked
+124,427,3E,Business,Booked
+125,192,13D,Business,Available
+126,489,3B,Business,Booked
+127,645,17A,Business,Available
+128,1015,7B,First Class,Available
+129,1040,45C,Economy,Booked
+130,965,27E,Business,Booked
+131,690,13A,Economy,Available
+132,472,20C,First Class,Available
+133,745,40E,Business,Available
+134,24,46F,Business,Booked
+135,970,45B,Economy,Available
+136,906,53A,First Class,Booked
+137,585,2B,First Class,Booked
+138,35,16F,Business,Booked
+139,982,54E,Business,Booked
+140,478,6C,Business,Available
+141,1070,49D,First Class,Booked
+142,232,15E,Business,Booked
+143,390,13C,Economy,Available
+144,1103,10D,Economy,Booked
+145,617,54B,Economy,Available
+146,635,14B,Economy,Booked
+147,1022,4D,Business,Available
+148,166,32F,Business,Available
+149,1190,54F,First Class,Booked
+150,269,34B,Economy,Booked
+151,580,43A,Economy,Booked
+152,1084,10F,Economy,Available
+153,187,18C,Business,Available
+154,592,14A,Economy,Booked
+155,265,2B,Business,Available
+156,261,53D,Economy,Available
+157,465,16C,Economy,Booked
+158,982,26F,Business,Booked
+159,363,45F,First Class,Booked
+160,264,33C,Economy,Booked
+161,886,15F,Business,Available
+162,236,10E,Business,Available
+163,1102,14A,Business,Available
+164,1011,25E,Business,Booked
+165,559,50B,Economy,Available
+166,157,43D,Business,Available
+167,701,59F,Business,Available
+168,1159,1A,Economy,Available
+169,236,15E,Economy,Booked
+170,1041,56E,First Class,Booked
+171,983,41B,Business,Booked
+172,308,51F,Economy,Booked
+173,358,19A,Business,Booked
+174,1196,21B,First Class,Available
+175,580,5F,First Class,Booked
+176,1015,9C,Business,Available
+177,397,39D,First Class,Booked
+178,792,48F,Economy,Available
+179,706,44F,Business,Booked
+180,1142,9B,Business,Available
+181,372,32B,Business,Available
+182,336,33A,Economy,Booked
+183,8,44E,Economy,Booked
+184,319,50E,Economy,Booked
+185,228,25E,Business,Booked
+186,100,57C,First Class,Available
+187,244,42A,First Class,Booked
+188,589,22F,Business,Available
+189,338,29F,Economy,Booked
+190,598,35F,Business,Booked
+191,945,32A,Economy,Available
+192,467,18D,First Class,Available
+193,702,24B,Business,Booked
+194,143,40B,Economy,Available
+195,827,37C,Economy,Available
+196,534,27D,Economy,Booked
+197,1058,32D,Business,Booked
+198,165,18F,Economy,Booked
+199,927,1C,Economy,Available
+200,285,14A,First Class,Booked
+201,57,48F,Business,Available
+202,395,45B,First Class,Available
+203,158,42D,Business,Available
+204,4,55C,First Class,Available
+205,157,34B,Economy,Available
+206,658,54F,Economy,Booked
+207,185,13D,Economy,Booked
+208,391,13A,Business,Booked
+209,472,12F,Economy,Booked
+210,1019,8C,First Class,Available
+211,860,9C,Business,Available
+212,199,57E,Economy,Available
+213,1122,31A,Economy,Booked
+214,145,53F,First Class,Available
+215,1108,52E,Business,Booked
+216,140,60D,First Class,Available
+217,569,47B,Economy,Available
+218,462,26B,Business,Booked
+219,240,55E,First Class,Booked
+220,326,13E,First Class,Available
+221,598,24F,First Class,Booked
+222,785,22E,Economy,Booked
+223,436,10C,First Class,Available
+224,498,9C,Business,Available
+225,829,23A,Economy,Available
+226,1107,25B,Economy,Available
+227,49,56A,First Class,Booked
+228,83,38F,Business,Available
+229,257,7A,Economy,Booked
+230,885,2D,Economy,Booked
+231,52,8B,Economy,Booked
+232,171,59E,Business,Available
+233,569,4C,Economy,Booked
+234,737,46D,First Class,Booked
+235,145,50B,Economy,Booked
+236,741,38B,Economy,Booked
+237,402,46C,First Class,Booked
+238,966,30E,Economy,Booked
+239,1121,60C,Economy,Available
+240,660,29F,Economy,Available
+241,141,2B,Business,Available
+242,587,18A,First Class,Available
+243,995,9D,First Class,Booked
+244,746,58C,Economy,Booked
+245,129,37A,Business,Booked
+246,278,5D,Economy,Available
+247,66,43A,Economy,Booked
+248,634,30C,First Class,Booked
+249,871,7F,Economy,Available
+250,353,43E,Economy,Available
+251,1108,32E,Business,Available
+252,648,53D,Economy,Booked
+253,57,1D,Economy,Booked
+254,57,59D,First Class,Available
+255,42,1C,Business,Available
+256,575,56C,First Class,Booked
+257,696,15A,First Class,Available
+258,565,60F,Economy,Booked
+259,1032,50B,Business,Booked
+260,1124,55B,Economy,Available
+261,449,32A,Business,Available
+262,1041,13C,Business,Available
+263,1146,22B,Economy,Booked
+264,707,15C,First Class,Available
+265,874,11B,First Class,Booked
+266,974,58B,First Class,Available
+267,150,32F,Business,Available
+268,289,37A,Economy,Available
+269,314,19D,Economy,Available
+270,506,54C,Business,Available
+271,859,41F,Business,Available
+272,91,48D,First Class,Booked
+273,640,19E,Economy,Booked
+274,303,31D,Economy,Available
+275,1176,52F,Business,Booked
+276,1125,5D,Business,Available
+277,129,37C,Economy,Booked
+278,142,8D,Economy,Available
+279,735,38F,Business,Booked
+280,269,52A,Business,Booked
+281,255,56F,Business,Available
+282,348,8D,Business,Booked
+283,194,2C,Economy,Booked
+284,1037,1C,Business,Booked
+285,754,42F,First Class,Booked
+286,374,39F,Economy,Booked
+287,930,6F,First Class,Available
+288,989,58A,Business,Booked
+289,197,21A,Economy,Available
+290,135,47F,First Class,Booked
+291,759,8E,First Class,Available
+292,747,34C,Economy,Available
+293,286,29D,Business,Available
+294,939,1B,Business,Available
+295,281,31C,Economy,Booked
+296,588,51E,Business,Booked
+297,1085,7B,First Class,Available
+298,939,51A,Business,Available
+299,578,58C,Business,Available
+300,597,52A,Business,Available
+301,208,2C,Economy,Booked
+302,644,33B,Business,Booked
+303,745,21D,Business,Booked
+304,1110,21E,Economy,Booked
+305,1037,23F,First Class,Booked
+306,942,4E,First Class,Available
+307,1051,35D,Business,Available
+308,702,37F,First Class,Booked
+309,532,7F,First Class,Booked
+310,753,59D,Business,Booked
+311,769,2D,First Class,Booked
+312,46,46A,First Class,Available
+313,329,36F,First Class,Booked
+314,692,55B,Business,Booked
+315,1077,53D,First Class,Booked
+316,721,12F,First Class,Available
+317,466,4E,Business,Booked
+318,308,48B,Economy,Booked
+319,709,1C,First Class,Booked
+320,391,51F,First Class,Booked
+321,628,49B,Economy,Booked
+322,122,33D,Business,Available
+323,168,6B,Business,Available
+324,1047,40A,Economy,Available
+325,153,31F,Economy,Booked
+326,239,16E,First Class,Available
+327,980,15C,Business,Booked
+328,101,60C,Business,Booked
+329,398,54C,Business,Booked
+330,5,46D,First Class,Booked
+331,178,34B,First Class,Available
+332,884,55B,Business,Available
+333,710,26B,First Class,Booked
+334,679,6E,Economy,Booked
+335,809,23C,Economy,Available
+336,732,52D,Economy,Available
+337,816,21A,First Class,Available
+338,1004,9D,Business,Available
+339,1082,40E,Economy,Booked
+340,628,1E,First Class,Available
+341,1146,40F,Economy,Available
+342,552,2B,Business,Available
+343,325,24C,Economy,Available
+344,1071,47E,Business,Booked
+345,853,47B,Economy,Booked
+346,363,55A,Business,Available
+347,66,60D,Business,Available
+348,984,60B,First Class,Booked
+349,564,55D,First Class,Available
+350,1070,24F,Economy,Booked
+351,53,20D,First Class,Available
+352,666,15E,First Class,Booked
+353,698,26C,Economy,Booked
+354,715,41C,Business,Available
+355,459,54C,Business,Available
+356,771,37A,Economy,Booked
+357,578,41D,Business,Booked
+358,156,43C,Business,Available
+359,1102,56C,Business,Booked
+360,767,52D,First Class,Available
+361,56,25A,Business,Booked
+362,169,9C,Business,Booked
+363,313,12C,Economy,Available
+364,343,24B,Economy,Booked
+365,488,39D,Business,Available
+366,343,30E,First Class,Booked
+367,428,18D,Business,Available
+368,847,26E,Economy,Available
+369,791,27E,Economy,Available
+370,258,59D,Business,Booked
+371,849,38C,First Class,Available
+372,666,33E,Economy,Booked
+373,656,51F,Business,Booked
+374,161,27D,First Class,Available
+375,597,42E,First Class,Available
+376,288,28A,First Class,Booked
+377,178,60B,Business,Available
+378,204,3C,First Class,Booked
+379,1052,36A,Economy,Booked
+380,1011,34A,Economy,Available
+381,887,7D,Economy,Available
+382,784,41B,Business,Available
+383,300,5E,First Class,Booked
+384,764,36A,Economy,Available
+385,37,28D,Economy,Booked
+386,87,15F,First Class,Booked
+387,1055,24F,First Class,Booked
+388,789,37B,First Class,Available
+389,979,12E,First Class,Available
+390,1013,37A,Economy,Available
+391,250,40D,Economy,Available
+392,448,28D,Business,Booked
+393,861,37B,First Class,Available
+394,502,42A,Business,Available
+395,1052,37A,First Class,Available
+396,1013,40B,First Class,Booked
+397,238,54E,First Class,Available
+398,1088,32E,Economy,Booked
+399,705,52F,Economy,Available
+400,160,34D,First Class,Booked
+401,1189,47A,Business,Available
+402,598,52A,Business,Available
+403,273,43E,Business,Booked
+404,277,41A,Business,Available
+405,145,45E,Economy,Available
+406,1183,23C,Business,Booked
+407,126,29D,First Class,Booked
+408,169,31A,First Class,Available
+409,528,1E,First Class,Available
+410,338,52F,Economy,Available
+411,92,59B,First Class,Booked
+412,106,25D,First Class,Available
+413,240,26B,First Class,Available
+414,102,50A,Economy,Booked
+415,414,40D,First Class,Available
+416,1069,10F,Business,Booked
+417,613,10D,Business,Available
+418,973,3E,First Class,Booked
+419,598,32E,Business,Booked
+420,191,54C,Business,Available
+421,118,40E,First Class,Available
+422,901,30A,First Class,Available
+423,318,2D,First Class,Available
+424,372,29B,Economy,Available
+425,800,34C,First Class,Booked
+426,872,25B,Economy,Booked
+427,229,25C,Economy,Available
+428,383,17C,Business,Booked
+429,1093,7B,Economy,Booked
+430,257,40A,First Class,Available
+431,1159,5E,First Class,Available
+432,19,6F,Business,Available
+433,1194,41F,Business,Available
+434,659,6E,Business,Booked
+435,889,30E,Economy,Booked
+436,628,57B,Business,Booked
+437,916,31D,Business,Available
+438,915,7D,First Class,Booked
+439,692,17A,First Class,Available
+440,354,2C,Economy,Available
+441,297,45F,Business,Booked
+442,811,21A,Economy,Available
+443,317,29C,First Class,Available
+444,217,58A,First Class,Available
+445,629,40D,Business,Booked
+446,279,12C,First Class,Available
+447,828,15F,Economy,Available
+448,533,31B,Business,Booked
+449,1053,21F,Business,Available
+450,646,51B,Business,Available
+451,1021,13D,First Class,Available
+452,727,32E,Economy,Booked
+453,510,3F,Business,Booked
+454,313,31B,Business,Available
+455,257,5D,Economy,Available
+456,420,17C,Business,Booked
+457,1160,21F,First Class,Booked
+458,816,35F,Business,Booked
+459,1063,43F,Economy,Available
+460,631,53C,First Class,Booked
+461,752,47F,Business,Booked
+462,842,33E,Business,Available
+463,309,30E,Economy,Available
+464,1130,37D,First Class,Available
+465,789,34E,Economy,Available
+466,1016,24C,Business,Booked
+467,1157,3F,Business,Available
+468,660,59F,First Class,Booked
+469,408,53F,Economy,Booked
+470,537,60F,First Class,Available
+471,577,43D,Economy,Available
+472,315,39C,First Class,Available
+473,344,51D,Business,Booked
+474,383,32D,Economy,Available
+475,141,21E,Business,Available
+476,956,48B,Business,Booked
+477,101,37B,Economy,Booked
+478,736,57D,Economy,Booked
+479,662,49E,First Class,Available
+480,81,56C,First Class,Booked
+481,227,44E,Economy,Booked
+482,717,24B,Business,Booked
+483,288,58D,Business,Booked
+484,957,56C,First Class,Booked
+485,1113,58A,Business,Booked
+486,371,27D,First Class,Available
+487,372,4E,Economy,Available
+488,222,53F,First Class,Booked
+489,764,34B,First Class,Booked
+490,150,34F,Economy,Available
+491,568,57F,Business,Booked
+492,39,2B,Business,Available
+493,1121,5D,First Class,Available
+494,740,14B,Economy,Booked
+495,493,26C,Economy,Booked
+496,845,52E,First Class,Available
+497,983,48B,First Class,Available
+498,984,53D,Economy,Booked
+499,170,29A,Business,Available
+500,402,41F,First Class,Booked
+501,666,4C,Economy,Available
+502,449,60E,Business,Booked
+503,173,11F,First Class,Available
+504,730,20E,First Class,Available
+505,1034,21C,Business,Available
+506,274,33E,Business,Booked
+507,844,17C,Business,Available
+508,500,29B,Economy,Available
+509,431,22F,First Class,Available
+510,216,40F,Business,Available
+511,370,29E,First Class,Available
+512,616,40D,First Class,Booked
+513,310,27A,Business,Booked
+514,171,44E,Business,Available
+515,1106,59D,Business,Booked
+516,116,59B,Business,Available
+517,38,12C,First Class,Available
+518,581,49C,Economy,Available
+519,339,24D,Business,Booked
+520,310,18A,Economy,Booked
+521,179,49C,First Class,Booked
+522,883,7D,Business,Available
+523,917,19B,Business,Available
+524,832,3B,Economy,Booked
+525,983,5F,First Class,Available
+526,905,6A,First Class,Booked
+527,905,54C,Business,Available
+528,456,50D,First Class,Booked
+529,445,36A,Economy,Booked
+530,1165,15E,Business,Booked
+531,739,48B,Business,Available
+532,628,35C,Business,Booked
+533,646,49B,Business,Booked
+534,356,12C,Business,Available
+535,249,7B,First Class,Booked
+536,975,20B,Economy,Booked
+537,144,32B,First Class,Booked
+538,418,28D,Business,Available
+539,1071,26B,First Class,Booked
+540,627,58D,First Class,Booked
+541,564,22E,First Class,Booked
+542,957,11D,Business,Available
+543,791,47A,Business,Available
+544,563,2C,First Class,Available
+545,1044,35B,Economy,Booked
+546,87,19E,First Class,Available
+547,652,54F,First Class,Available
+548,842,52C,Business,Available
+549,436,52E,Business,Booked
+550,432,50B,Economy,Available
+551,274,38B,First Class,Booked
+552,79,35C,Economy,Available
+553,301,42F,Economy,Available
+554,220,2F,Economy,Booked
+555,255,26D,Economy,Available
+556,1064,45F,Economy,Available
+557,1132,37E,Business,Available
+558,138,11D,Economy,Booked
+559,920,14B,Business,Booked
+560,779,23D,Business,Available
+561,689,21C,First Class,Booked
+562,887,3E,Economy,Booked
+563,1067,25A,Economy,Booked
+564,1035,25E,Business,Booked
+565,329,48B,Business,Booked
+566,935,30F,First Class,Available
+567,1127,60C,Economy,Booked
+568,486,36B,Economy,Booked
+569,984,11B,First Class,Available
+570,64,23F,Business,Available
+571,902,55A,Business,Booked
+572,8,44E,Business,Booked
+573,182,50B,Business,Booked
+574,319,15B,Economy,Available
+575,174,23C,Economy,Booked
+576,1093,46F,First Class,Available
+577,529,32E,Economy,Booked
+578,340,34F,Economy,Available
+579,909,38B,Business,Available
+580,660,42C,Economy,Available
+581,559,60F,Business,Available
+582,609,50B,First Class,Available
+583,307,34E,Economy,Available
+584,204,44B,Economy,Booked
+585,265,32C,Economy,Booked
+586,900,42D,First Class,Available
+587,773,22F,Business,Booked
+588,204,55B,First Class,Booked
+589,969,58A,Economy,Booked
+590,645,5F,Business,Available
+591,1147,31A,Business,Available
+592,627,19F,Economy,Booked
+593,444,14B,First Class,Available
+594,466,13B,First Class,Booked
+595,870,28D,Economy,Booked
+596,796,48C,Economy,Available
+597,1186,46A,Business,Available
+598,1120,14D,Business,Booked
+599,1115,9B,Economy,Available
+600,696,52E,Economy,Booked
+601,769,42E,Economy,Available
+602,257,52A,First Class,Booked
+603,360,14A,Economy,Booked
+604,1159,36C,First Class,Booked
+605,703,51F,Economy,Booked
+606,7,38D,First Class,Booked
+607,29,55D,First Class,Booked
+608,850,23A,Business,Booked
+609,358,39E,Economy,Booked
+610,425,6D,Business,Available
+611,479,22D,First Class,Available
+612,938,19E,Economy,Available
+613,917,42C,First Class,Booked
+614,41,16A,Business,Booked
+615,886,1E,First Class,Booked
+616,1011,1C,Business,Available
+617,183,10B,Economy,Booked
+618,271,14E,First Class,Booked
+619,965,52A,Business,Available
+620,627,32B,Business,Booked
+621,417,57A,Business,Available
+622,551,17D,Economy,Available
+623,784,37C,Economy,Booked
+624,367,17E,First Class,Available
+625,421,31D,Economy,Available
+626,562,11F,Business,Available
+627,64,47A,Economy,Available
+628,789,39E,Business,Available
+629,274,35B,First Class,Available
+630,412,47A,Business,Booked
+631,1101,19B,First Class,Available
+632,324,46C,Economy,Available
+633,220,7E,Economy,Booked
+634,198,35E,Business,Booked
+635,272,34F,Economy,Available
+636,157,48F,Economy,Available
+637,564,59F,First Class,Available
+638,527,25C,Economy,Booked
+639,429,43D,Economy,Booked
+640,993,43B,Economy,Available
+641,561,26B,First Class,Booked
+642,306,11A,Economy,Available
+643,536,31E,First Class,Available
+644,676,25D,First Class,Booked
+645,644,56A,First Class,Booked
+646,959,34D,Economy,Available
+647,911,58D,Business,Booked
+648,201,21C,Economy,Available
+649,438,4D,Economy,Booked
+650,1097,36B,Business,Booked
+651,743,51B,Economy,Available
+652,129,35F,Economy,Booked
+653,1014,11E,Economy,Available
+654,428,51A,Business,Available
+655,730,40A,First Class,Booked
+656,1088,58F,First Class,Booked
+657,898,1F,Economy,Available
+658,451,32E,Economy,Booked
+659,1101,30B,Economy,Available
+660,788,28E,First Class,Available
+661,1069,56F,Economy,Booked
+662,262,1B,Business,Available
+663,1112,55C,Economy,Booked
+664,143,3D,Economy,Available
+665,1074,18F,Business,Booked
+666,169,32C,Business,Booked
+667,199,3C,First Class,Available
+668,768,27C,Business,Available
+669,660,49C,Business,Booked
+670,202,47B,First Class,Booked
+671,431,33C,Economy,Available
+672,461,38A,Economy,Available
+673,945,19C,First Class,Booked
+674,283,14D,First Class,Booked
+675,425,53A,First Class,Booked
+676,558,11F,First Class,Booked
+677,273,40A,Business,Available
+678,935,44C,Economy,Available
+679,258,37F,Economy,Booked
+680,654,53F,First Class,Booked
+681,891,46C,Economy,Available
+682,484,1D,Business,Booked
+683,1129,39A,First Class,Available
+684,335,43C,First Class,Booked
+685,59,23E,First Class,Booked
+686,750,11E,Business,Booked
+687,547,4C,Business,Booked
+688,826,19C,First Class,Available
+689,480,16F,First Class,Available
+690,874,16F,Business,Booked
+691,972,1F,Business,Available
+692,655,60C,Economy,Booked
+693,939,48F,Business,Booked
+694,1078,4D,Business,Booked
+695,238,15C,Economy,Booked
+696,70,44F,Economy,Available
+697,1046,2D,Business,Booked
+698,780,42A,First Class,Available
+699,326,13D,First Class,Booked
+700,485,40D,Business,Booked
+701,455,32B,Business,Available
+702,315,33B,Business,Booked
+703,309,2A,Economy,Booked
+704,260,33A,First Class,Available
+705,542,52F,Economy,Available
+706,30,37B,Economy,Available
+707,410,57B,Business,Available
+708,100,8B,Business,Booked
+709,402,55D,Business,Available
+710,422,38B,Business,Available
+711,719,4D,First Class,Available
+712,1056,49F,Economy,Available
+713,55,14E,Economy,Booked
+714,225,44A,Economy,Booked
+715,381,28F,Economy,Booked
+716,368,23E,Economy,Booked
+717,584,55B,Business,Booked
+718,781,42F,Economy,Booked
+719,548,41C,Economy,Available
+720,945,10D,Business,Available
+721,868,6C,First Class,Booked
+722,101,14A,First Class,Available
+723,981,3C,First Class,Available
+724,489,7C,Business,Booked
+725,22,14D,First Class,Available
+726,427,57B,Business,Booked
+727,67,35D,Business,Available
+728,375,43F,Economy,Available
+729,313,4D,Business,Available
+730,67,4D,Economy,Available
+731,225,55A,Economy,Booked
+732,247,27C,Business,Available
+733,404,51A,Economy,Booked
+734,616,5E,Economy,Available
+735,842,22C,First Class,Booked
+736,699,53A,Economy,Booked
+737,355,35F,Business,Available
+738,662,57F,Business,Booked
+739,822,46E,First Class,Booked
+740,850,9B,First Class,Available
+741,255,38D,Business,Booked
+742,1037,27B,First Class,Available
+743,773,24B,Business,Available
+744,330,21B,First Class,Available
+745,394,56A,First Class,Booked
+746,1115,18D,First Class,Booked
+747,2,14F,First Class,Booked
+748,786,31C,Economy,Booked
+749,618,7E,First Class,Available
+750,989,17C,First Class,Booked
+751,338,19E,Business,Available
+752,312,48E,Economy,Booked
+753,750,22C,Economy,Available
+754,1146,49A,Business,Booked
+755,1062,40C,First Class,Available
+756,1183,6E,Economy,Available
+757,212,38D,Economy,Available
+758,583,24D,Business,Booked
+759,633,10B,Business,Booked
+760,64,58D,First Class,Booked
+761,355,24F,Economy,Booked
+762,375,8E,First Class,Booked
+763,60,13E,First Class,Booked
+764,990,58E,First Class,Available
+765,718,36D,Business,Available
+766,95,47D,Business,Available
+767,49,39C,Business,Available
+768,517,10B,Economy,Booked
+769,225,22A,First Class,Booked
+770,47,58A,Business,Available
+771,944,36B,Economy,Available
+772,324,27D,Business,Booked
+773,79,9D,Business,Booked
+774,1198,60F,First Class,Booked
+775,1077,56F,Economy,Booked
+776,1106,51B,Economy,Booked
+777,334,44C,Economy,Booked
+778,1062,50E,First Class,Booked
+779,951,28F,First Class,Available
+780,851,27D,Economy,Available
+781,1129,42F,First Class,Available
+782,1001,44E,Economy,Available
+783,604,60D,Economy,Available
+784,996,50F,Business,Available
+785,951,40B,Economy,Available
+786,634,52C,Business,Booked
+787,370,16C,Economy,Available
+788,938,40C,Business,Booked
+789,480,40A,First Class,Available
+790,352,49A,First Class,Booked
+791,1016,16B,First Class,Available
+792,737,29D,Economy,Available
+793,124,47C,First Class,Available
+794,206,14A,First Class,Booked
+795,278,23B,Economy,Booked
+796,644,33A,Business,Booked
+797,362,26A,First Class,Booked
+798,1057,18C,Business,Booked
+799,664,57C,Economy,Booked
+800,1045,31D,Business,Booked
+801,629,58D,Economy,Available
+802,550,9F,First Class,Booked
+803,939,32B,First Class,Available
+804,978,41D,First Class,Available
+805,1123,37C,Economy,Available
+806,897,56C,First Class,Available
+807,1194,24D,First Class,Booked
+808,1088,16C,Economy,Booked
+809,26,26C,First Class,Booked
+810,249,3C,Economy,Booked
+811,386,17C,Business,Booked
+812,1081,49A,First Class,Booked
+813,222,4E,First Class,Available
+814,1090,47A,Economy,Available
+815,1160,43D,Economy,Available
+816,713,17E,Economy,Available
+817,435,19B,Business,Available
+818,497,10D,Business,Booked
+819,112,34B,First Class,Booked
+820,545,42A,Business,Booked
+821,1158,32A,First Class,Available
+822,411,17D,Business,Booked
+823,586,29A,Economy,Available
+824,152,58B,Economy,Available
+825,200,39E,Business,Available
+826,273,10E,First Class,Available
+827,1174,14F,First Class,Available
+828,840,59E,Business,Booked
+829,176,28B,First Class,Available
+830,822,16D,Business,Booked
+831,1062,55C,First Class,Booked
+832,474,42B,Economy,Available
+833,73,29D,Economy,Booked
+834,1000,30D,Business,Booked
+835,711,46A,Economy,Booked
+836,95,58D,Economy,Available
+837,575,36A,Business,Available
+838,1110,50C,First Class,Available
+839,766,17B,First Class,Booked
+840,538,56A,First Class,Available
+841,1103,13E,Business,Available
+842,294,46F,Economy,Booked
+843,1180,52A,First Class,Available
+844,625,6E,Economy,Booked
+845,59,36E,First Class,Available
+846,11,5C,Economy,Booked
+847,510,16A,Economy,Available
+848,167,33B,Business,Booked
+849,299,32C,Business,Booked
+850,763,55C,First Class,Available
+851,511,47F,Business,Available
+852,921,15F,Business,Available
+853,258,36F,Business,Available
+854,797,52C,Economy,Available
+855,553,28B,First Class,Booked
+856,312,50A,Business,Available
+857,37,58B,First Class,Available
+858,222,48D,Economy,Available
+859,1107,46C,Economy,Booked
+860,195,36F,Economy,Booked
+861,151,16F,Business,Booked
+862,21,17F,Business,Booked
+863,64,9A,First Class,Booked
+864,194,56C,First Class,Booked
+865,30,16E,Business,Available
+866,6,52F,Economy,Available
+867,477,59B,First Class,Available
+868,704,21A,Economy,Available
+869,570,59E,Business,Available
+870,323,17C,Business,Booked
+871,878,24C,Business,Available
+872,220,43B,Business,Available
+873,963,18B,Business,Booked
+874,185,23B,Economy,Booked
+875,767,49A,First Class,Booked
+876,692,14F,Economy,Available
+877,1112,18E,Business,Available
+878,1140,42A,Economy,Booked
+879,1035,48B,Economy,Available
+880,944,1D,First Class,Available
+881,46,19A,Economy,Available
+882,511,25F,Economy,Available
+883,626,25C,Economy,Booked
+884,981,60F,First Class,Booked
+885,901,52E,Economy,Available
+886,796,55D,Business,Available
+887,672,3B,Business,Available
+888,808,2E,Economy,Available
+889,408,42F,First Class,Booked
+890,335,32E,Business,Available
+891,753,40F,Economy,Booked
+892,922,8F,First Class,Available
+893,233,21F,Economy,Booked
+894,1194,33A,Economy,Available
+895,100,58C,Economy,Booked
+896,837,8C,Economy,Available
+897,1123,57B,First Class,Available
+898,892,43A,First Class,Booked
+899,814,16E,Business,Booked
+900,732,37C,Business,Available
+901,882,13F,Business,Booked
+902,657,46C,Economy,Available
+903,625,3A,Business,Booked
+904,248,44A,Economy,Booked
+905,550,38B,Economy,Available
+906,100,44B,First Class,Booked
+907,947,11C,Economy,Booked
+908,334,13F,First Class,Booked
+909,251,39D,First Class,Available
+910,470,37B,Business,Booked
+911,949,18F,Economy,Booked
+912,534,9E,First Class,Available
+913,1186,25E,First Class,Booked
+914,1128,46B,Business,Available
+915,1026,47C,First Class,Booked
+916,1085,44A,Economy,Available
+917,606,14B,Business,Available
+918,1034,3E,Business,Available
+919,626,9B,First Class,Booked
+920,34,54E,Business,Available
+921,74,17A,Business,Available
+922,1059,56F,First Class,Available
+923,715,45B,Business,Available
+924,880,15E,Economy,Booked
+925,935,21E,Business,Available
+926,991,13D,Economy,Available
+927,151,4E,Business,Booked
+928,714,14A,First Class,Available
+929,35,45C,Business,Available
+930,1004,29F,First Class,Booked
+931,63,2C,First Class,Booked
+932,597,27A,First Class,Available
+933,286,23E,First Class,Booked
+934,847,3B,Business,Booked
+935,295,25C,Business,Booked
+936,1117,45D,Economy,Available
+937,997,32D,Business,Booked
+938,994,56A,Economy,Available
+939,70,42A,Economy,Booked
+940,676,47C,Economy,Booked
+941,393,2B,Economy,Booked
+942,99,59C,Economy,Available
+943,163,2A,Business,Available
+944,461,54D,First Class,Available
+945,337,4C,Economy,Booked
+946,738,29D,Business,Booked
+947,46,34D,First Class,Available
+948,609,52B,Economy,Booked
+949,1159,47C,Business,Booked
+950,793,59D,First Class,Booked
+951,675,50A,Economy,Booked
+952,226,59A,Business,Booked
+953,1060,48F,First Class,Available
+954,473,13F,Business,Available
+955,826,43F,Economy,Available
+956,10,28F,Business,Available
+957,201,29E,Economy,Booked
+958,455,1F,Business,Booked
+959,942,24A,First Class,Available
+960,938,22D,Business,Available
+961,631,56E,Business,Booked
+962,539,29D,First Class,Booked
+963,833,51E,Business,Available
+964,586,10E,First Class,Booked
+965,421,32C,Economy,Booked
+966,1175,43F,Business,Booked
+967,357,6B,Business,Booked
+968,1019,22A,Business,Booked
+969,1181,43F,Economy,Booked
+970,1001,57E,Economy,Available
+971,733,58B,First Class,Available
+972,1059,51E,Economy,Booked
+973,1023,6D,Economy,Available
+974,791,51C,First Class,Available
+975,429,21B,First Class,Available
+976,174,1C,Business,Available
+977,641,25D,Economy,Booked
+978,1076,51B,Business,Available
+979,356,9D,Business,Booked
+980,1167,2F,Economy,Booked
+981,827,60F,Business,Booked
+982,923,3D,First Class,Booked
+983,986,19D,Business,Booked
+984,3,24B,Business,Booked
+985,371,33E,Economy,Available
+986,1008,27A,Business,Booked
+987,490,13D,Business,Available
+988,1091,38F,Economy,Available
+989,680,22B,Business,Available
+990,1012,48F,First Class,Available
+991,757,10C,Economy,Booked
+992,229,33B,Business,Available
+993,1005,49C,Business,Booked
+994,547,33F,Economy,Available
+995,428,5B,First Class,Available
+996,1094,37B,Economy,Booked
+997,642,11A,Economy,Booked
+998,807,34E,Business,Booked
+999,981,29D,Business,Booked
+1000,645,13E,First Class,Available
+1001,474,56F,Business,Booked
+1002,54,40B,Economy,Booked
+1003,731,51C,Business,Available
+1004,724,16F,First Class,Booked
+1005,280,6B,Business,Booked
+1006,670,55F,Business,Booked
+1007,728,18A,First Class,Booked
+1008,1172,43B,First Class,Booked
+1009,136,57E,Business,Booked
+1010,398,60D,First Class,Booked
+1011,476,13A,Business,Available
+1012,47,56B,Economy,Available
+1013,1093,10E,Economy,Available
+1014,822,32D,Economy,Booked
+1015,256,51D,First Class,Booked
+1016,1089,34D,Economy,Booked
+1017,1199,11A,First Class,Booked
+1018,1047,59C,Business,Available
+1019,1127,25C,First Class,Booked
+1020,948,39A,First Class,Booked
+1021,559,18E,Economy,Available
+1022,608,3E,First Class,Booked
+1023,726,28E,First Class,Booked
+1024,213,15B,Economy,Booked
+1025,3,34D,First Class,Booked
+1026,927,54C,First Class,Available
+1027,95,7F,Economy,Booked
+1028,696,29B,Business,Booked
+1029,1129,59C,Business,Available
+1030,910,25F,First Class,Available
+1031,511,20A,Economy,Available
+1032,856,14D,Business,Booked
+1033,419,11D,First Class,Available
+1034,402,46A,Economy,Booked
+1035,1071,37C,First Class,Booked
+1036,856,19B,Business,Booked
+1037,455,47C,Business,Booked
+1038,203,7A,First Class,Available
+1039,273,4D,First Class,Available
+1040,324,12F,Business,Booked
+1041,690,8C,Business,Booked
+1042,27,36F,First Class,Booked
+1043,709,25A,Economy,Available
+1044,887,3E,Business,Available
+1045,278,45E,Business,Available
+1046,26,25D,Business,Available
+1047,206,6A,Business,Booked
+1048,922,58F,Economy,Available
+1049,929,20C,Business,Available
+1050,821,30F,First Class,Booked
+1051,75,27F,First Class,Available
+1052,649,48D,Business,Available
+1053,1068,59E,Business,Booked
+1054,529,21E,First Class,Booked
+1055,45,59A,First Class,Booked
+1056,245,10C,First Class,Available
+1057,825,54F,First Class,Booked
+1058,853,1F,First Class,Available
+1059,644,20F,Business,Available
+1060,884,43D,Business,Available
+1061,1153,58F,Economy,Available
+1062,438,16C,Economy,Available
+1063,990,32A,Business,Booked
+1064,566,51E,Economy,Available
+1065,1076,7C,First Class,Booked
+1066,185,16A,Business,Booked
+1067,752,15A,First Class,Available
+1068,648,40B,First Class,Available
+1069,1083,10F,Economy,Booked
+1070,213,35D,Business,Booked
+1071,582,48D,First Class,Booked
+1072,89,3B,Business,Available
+1073,116,35F,First Class,Booked
+1074,615,39F,Economy,Available
+1075,717,55E,First Class,Booked
+1076,1158,21C,Business,Booked
+1077,92,28F,Business,Booked
+1078,269,29B,First Class,Booked
+1079,940,17C,First Class,Available
+1080,493,46B,Economy,Booked
+1081,316,9A,Economy,Available
+1082,631,40F,Business,Booked
+1083,377,53F,Economy,Available
+1084,624,57E,First Class,Available
+1085,76,19B,Economy,Available
+1086,388,54A,First Class,Available
+1087,1041,2B,Economy,Booked
+1088,88,17B,First Class,Available
+1089,879,11A,First Class,Available
+1090,784,19B,Business,Available
+1091,42,50D,First Class,Available
+1092,1112,47D,Economy,Available
+1093,718,48C,First Class,Booked
+1094,1157,15A,Business,Available
+1095,683,6A,First Class,Available
+1096,489,33F,Business,Booked
+1097,730,17C,First Class,Booked
+1098,237,34C,First Class,Available
+1099,1094,3F,Economy,Booked
+1100,676,9C,Business,Available
+1101,787,16A,Business,Available
+1102,974,36E,First Class,Booked
+1103,651,54B,Business,Available
+1104,456,2F,Business,Booked
+1105,213,5C,Economy,Available
+1106,934,8A,First Class,Available
+1107,1194,35F,First Class,Booked
+1108,654,17A,First Class,Booked
+1109,718,14A,First Class,Booked
+1110,582,42F,Economy,Available
+1111,990,14B,Business,Booked
+1112,589,27A,First Class,Booked
+1113,854,21E,First Class,Available
+1114,130,32C,Business,Available
+1115,354,34B,Business,Booked
+1116,637,50C,Economy,Available
+1117,496,51E,Business,Available
+1118,534,55A,First Class,Available
+1119,1042,5F,Business,Booked
+1120,167,5D,Business,Booked
+1121,606,6C,First Class,Available
+1122,565,53E,First Class,Available
+1123,317,55C,Economy,Booked
+1124,928,11A,Business,Booked
+1125,951,9C,Economy,Booked
+1126,390,48A,First Class,Available
+1127,55,29E,Economy,Booked
+1128,816,60E,First Class,Available
+1129,21,22A,First Class,Booked
+1130,1165,44A,Economy,Booked
+1131,633,19A,First Class,Available
+1132,365,59C,Economy,Booked
+1133,1187,50E,Business,Available
+1134,581,22E,Business,Booked
+1135,94,57D,Economy,Booked
+1136,106,8F,Economy,Booked
+1137,1101,11D,Economy,Available
+1138,1047,24B,Business,Available
+1139,653,40D,Business,Available
+1140,467,55E,Economy,Available
+1141,806,9C,Economy,Available
+1142,1135,22F,Business,Available
+1143,41,19F,First Class,Booked
+1144,961,13C,First Class,Available
+1145,685,18A,Business,Booked
+1146,461,7F,Economy,Booked
+1147,254,42E,First Class,Booked
+1148,383,41F,First Class,Available
+1149,656,30A,First Class,Booked
+1150,752,50E,Business,Available
+1151,230,54E,Business,Available
+1152,232,45A,Economy,Available
+1153,236,10B,First Class,Available
+1154,920,46F,Economy,Available
+1155,531,3B,Business,Booked
+1156,357,38A,Economy,Booked
+1157,114,46B,First Class,Booked
+1158,290,2E,Economy,Booked
+1159,381,31D,First Class,Available
+1160,679,60A,First Class,Booked
+1161,696,47C,Economy,Booked
+1162,642,26E,Economy,Available
+1163,990,53D,First Class,Booked
+1164,169,26A,Economy,Booked
+1165,66,35D,Business,Booked
+1166,575,56F,First Class,Booked
+1167,631,15F,First Class,Available
+1168,384,41D,Business,Available
+1169,8,5A,Economy,Available
+1170,1187,55B,First Class,Available
+1171,371,59B,Economy,Available
+1172,735,54B,Economy,Available
+1173,9,42B,Business,Booked
+1174,1018,28E,First Class,Available
+1175,530,15A,Economy,Available
+1176,470,47B,Business,Booked
+1177,696,47B,First Class,Available
+1178,1135,56F,Business,Available
+1179,729,18B,First Class,Available
+1180,853,33F,Business,Available
+1181,562,37E,Economy,Booked
+1182,705,1B,First Class,Available
+1183,1069,21C,Business,Booked
+1184,563,7F,First Class,Available
+1185,106,15A,Economy,Booked
+1186,1154,53C,Business,Booked
+1187,273,40B,Economy,Available
+1188,250,45F,Business,Booked
+1189,966,35D,Economy,Booked
+1190,3,40F,Business,Available
+1191,85,34D,First Class,Available
+1192,925,30A,First Class,Booked
+1193,609,56F,Business,Booked
+1194,1164,35B,Business,Booked
+1195,237,32B,First Class,Booked
+1196,611,4B,First Class,Booked
+1197,941,48A,Business,Booked
+1198,305,55C,Economy,Available
+1199,89,41B,Business,Booked
+1200,371,39F,Economy,Available
